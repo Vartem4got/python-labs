@@ -52,17 +52,9 @@ def main():
     print(ship2)
     print(ship3)
 
-    '''
-    print(f"Ship 1 name: {ship1.get_name()}")
-    print(f"Ship 2 mass: {ship2.get_mass()}")
-    print(f"Ship 3 pasngrs: {ship3.get_pasngrs()}")
-    '''
+    
         # i hate debug, if it goes wrong agan i dknow what to do
-    '''
-    ship3.set_name("New Ship")
-    ship3.set_mass(50000)
-    ship3.set_pasngrs(3000)
-    '''
+    
 
     print(ship3)
     
